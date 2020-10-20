@@ -2,7 +2,7 @@
     "name": "vito/contact",
     "description": "This will send email to admin",
     "type": "library",
-    "license": "CU",
+    "license": "MIT",
     "authors": [
         {
             "name": "vito makhatadze",
