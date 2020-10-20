@@ -1,5 +1,5 @@
 {
-    "name": "Vito/Contact",
+    "name": "vito/contact",
     "description": "This will send email to admin",
     "type": "library",
     "license": "CU",
