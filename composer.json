@@ -15,5 +15,12 @@
         "psr-4": {
             "Vito\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vito\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
