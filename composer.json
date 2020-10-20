@@ -1,0 +1,19 @@
+{
+    "name": "Vito/Contact",
+    "description": "This will send email to admin",
+    "type": "library",
+    "license": "CU",
+    "authors": [
+        {
+            "name": "vito makhatadze",
+            "email": "vitomaxatadze@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vito\\Contact": "src/"
+        }
+    }
+}
